@@ -28,7 +28,7 @@ void read_trace_pipe(void)
 	}
 }
 
-int main(void) 
+int main(void)
 {
 	struct hello_bpf *obj;
 	int err = 0;
